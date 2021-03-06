@@ -2,7 +2,7 @@ import boto3
 import os
 from boto3.dynamodb.conditions import Key
 
-# Wenas wenas
+# Wenas wenas, probando cambios con approval.
 
 DYNAMO_BD = os.environ['DYNAMO_BD']
 
